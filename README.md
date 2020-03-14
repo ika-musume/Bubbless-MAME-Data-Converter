@@ -8,7 +8,7 @@ I made this for the convenience of debugging and research.
 Follow the instruction on the console.
 
 ## Versions
-# V1.0
+### V1.0
 First release.  
-# V1.1
+### V1.1
 Added size checker and bootloader generator.
