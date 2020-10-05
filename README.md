@@ -7,7 +7,7 @@ I made this for the convenience of debugging and research.
 ## How to use?
 Follow the instruction on the console.
 
-## Versions
+## Changelog
 ### V1.0
 First release.  
 ### V1.1
